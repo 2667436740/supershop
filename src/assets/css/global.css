@@ -6,3 +6,32 @@ body,
   margin: 0;
   padding: 0;
 }
+
+.el-submenu__title {
+  font-size: 18px;
+}
+
+.el-breadcrumb {
+  padding-bottom: 15px;
+  font-size: 13px;
+}
+
+.el-card {
+  box-shadow: 0 1px 1px rgba(0,0,0,.15) !important;
+}
+
+.el-table__header-wrapper {
+  line-height: 35px;
+}
+
+.el-table {
+  font-size: 13px;
+}
+
+.el-pagination {
+  margin-top: 15px;
+}
+
+.el-dialog {
+  line-height: 30%;
+}
