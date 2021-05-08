@@ -116,8 +116,7 @@
   }
 
   .el-header div span {
-    margin-left: 15px;
-  }
+    margin-left: 15px;  }
 
   .el-aside {
     background-color: #5e6871;
