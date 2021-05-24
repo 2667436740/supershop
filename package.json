@@ -10,7 +10,10 @@
     "axios": "^0.21.1",
     "core-js": "^2.6.5",
     "element-ui": "^2.15.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
     "vue": "^2.6.10",
+    "vue-quill-editor": "^3.0.6",
     "vue-router": "^3.0.3",
     "vue-table-with-tree-grid": "^0.2.4"
   },
